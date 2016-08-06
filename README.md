@@ -1,2 +1,3 @@
 # hello-world
-first_testing repos
+Testing repos.
+Will hopefully learn Python.
